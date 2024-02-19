@@ -1,0 +1,78 @@
+@charset "ISO-8859-1";
+.logo{
+  width:80px;
+ 
+  border-radius: 10px;
+}
+
+h2
+{
+	margin-left: 2%;
+	margin-bottom: 2%;
+}
+
+.img {
+	height:350px;
+}
+body
+{
+	
+  background-image: url("https://res.cloudinary.com/dqk4mkhtr/image/upload/v1708014414/cs9ghit4vpqgrpbxwk2i.jpg");
+  background-size: cover;
+}
+footer {
+  background: white;
+  color: black;
+  padding-top: 10px;
+}
+
+footer h3 {
+ color: #0894d1;
+  letter-spacing: 1px;
+  margin: 30px 0 20px;
+}
+
+footer .three-column {
+ overflow: hidden;
+}
+
+footer .img-thumbnail {
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #444;
+  margin-bottom: 5px;
+}
+
+footer .copyright {
+  padding: 15px 0;
+  background: #98ABEE;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+footer .copyright span 
+{
+  color: black;
+}
+.card
+{
+  background-color: #BBE2EC;
+	box-shadow: 0px 5px 3px 0px grey;
+	width: 40%;
+	height:550px;
+	border-radius: 20px;
+}
+.name{
+	text-align:left;
+}
+.card-color{
+  background-color: white;
+}
+.nav-link{
+  color: white;
+}
+.nav-bar {
+  background-color:#BBE2EC;
+}
+.nav-link{
+  color:black;
+}
